@@ -1,0 +1,11 @@
+{
+    "name": "disform/packages",
+    "autoload": {
+        "psr-4": {
+            "Disform\\Packages\\": "cmp/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
